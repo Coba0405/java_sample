@@ -1,0 +1,5 @@
+{
+  "id": "java-test-environment",
+  "configuration": "file:///home/ec2-user/environment/.c9",
+  "name": "java-test-environment"
+}
